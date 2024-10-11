@@ -27,6 +27,7 @@ body {
 }
 
 .header {
+  background-image: url(../img/style.svg);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
